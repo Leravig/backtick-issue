@@ -1,11 +1,11 @@
 {
-  "name": "my-app",
+  "name": "backtick-issue",
   "version": "0.1.0",
-  "private": true,
+  "license": "MIT",
+  "url": "https://github.com/Leravig/backtick-issue",
   "dependencies": {
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
-    "@mui/icons-material": "^5.11.11",
     "@mui/material": "^5.12.3",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -69,5 +69,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "engines": {
+    "node": "^18.16.0",
+    "npm": "^9.5.1"
   }
 }
